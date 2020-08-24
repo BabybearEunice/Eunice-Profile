@@ -2,15 +2,15 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chenkuansun&show_icons=true&include_all_commits=true&theme=algolia" alt="CK's github stats" />
 </a>
 
-# Hi , I'm [CK Sun!](https://chenkuansun.github.io/)
+# Hi , I'm [Eunice Tsai](https://eunicecynosure.com/)
 
-<a target="_blank" href="https://www.facebook.com/MidoYa">
+<a target="_blank" href="https://www.facebook.com/babybeareunice/">
   <img align="left" alt="ChenKuan Sun | Facebook" width="50px" src="https://raw.githubusercontent.com/ChenKuanSun/ChenKuanSun/8c092feed1acd7733d08be9111ae694adf3c03cb/assets/icons8-facebook-50.svg" />
 </a>
-<a target="_blank" href="https://www.linkedin.com/in/chenkuan-sun-430566132/">
+<a target="_blank" href="https://www.linkedin.com/in/eunice-t-9959aa138/">
   <img align="left" alt="ChenKuan Sun | LinkedIn" width="50px" src="https://raw.githubusercontent.com/ChenKuanSun/ChenKuanSun/8c092feed1acd7733d08be9111ae694adf3c03cb/assets/icons8-linkedin-50.svg" />
 </a>
-<a target="_blank" href="https://medium.com/@fgriasa123">
+<a target="_blank" href="https://medium.com/@BabybearEunice">
   <img align="left" alt="ChenKuan Sun | Medium" width="50px" src="https://raw.githubusercontent.com/ChenKuanSun/ChenKuanSun/8c092feed1acd7733d08be9111ae694adf3c03cb/assets/icons8-medium-50.svg" />
 </a>
 
@@ -18,11 +18,11 @@
 <br />
 <br />
 
-Hi, I'm ChenKuan, a full stack web developer from Taiwan.
+Hi, I'm Eunice, a backend engineer & data scientist from Taiwan.
 
-- I'm currently working on headless e-commerce platform [SELLERLINX](https://sellerlinx.com/)
+- I'm currently working on
 - I'm currently learning GraphQL & MongoDB
-- Ask me about anything [here](https://github.com/chenkuansun/chenkuansun/issues)
+- Ask me about anything [here](https://eunicecynosure.com/)
 
 <br />
 <br />

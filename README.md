@@ -73,7 +73,7 @@ Hi, I'm Eunice, a backend engineer & data scientist from Taiwan.
 ## GitHub
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github._
-<a href="https://github.com/chenkuansun/github-readme-stats">
+<a href="https://github.com/BabybearEunice">
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenkuansun&layout=compact&theme=algolia" />
 </a>

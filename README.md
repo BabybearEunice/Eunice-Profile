@@ -1,5 +1,5 @@
 <a href="https://github.com/chenkuansun/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chenkuansun&show_icons=true&include_all_commits=true&theme=algolia" alt="CK's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BabybearEunice&show_icons=true&include_all_commits=true&theme=algolia" alt="Eunice's github stats" />
 </a>
 
 # Hi , I'm [Eunice Tsai](https://eunicecynosure.com/)

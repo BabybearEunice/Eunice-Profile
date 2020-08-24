@@ -61,7 +61,7 @@ Hi, I'm Eunice, a backend engineer & data scientist from Taiwan.
 
 ### C++
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> ![C++](https://progress-bar.dev/90/?title=Normal&width=330 "C++")
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> ![C++](https://progress-bar.dev/90/?title=Comfortable&width=330 "C++")
 
 ### TypeScript
 

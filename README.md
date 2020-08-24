@@ -44,17 +44,16 @@ Hi, I'm Eunice, a backend engineer & data scientist from Taiwan.
 
 ## Cloud
 
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
+
 
 <br />
 <br />
 
 ## Level
 
-### TypeScript
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> ![Typescript](https://progress-bar.dev/90/?title=Comfortable&width=300 "Typescript")
 
 ### Python
 
@@ -62,7 +61,11 @@ Hi, I'm Eunice, a backend engineer & data scientist from Taiwan.
 
 ### C++
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> ![C++](https://progress-bar.dev/50/?title=Normal&width=330 "C++")
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> ![C++](https://progress-bar.dev/90/?title=Normal&width=330 "C++")
+
+### TypeScript
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> ![Typescript](https://progress-bar.dev/90/?title=Comfortable&width=300 "Typescript")
 
 <br />
 <br />
